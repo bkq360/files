@@ -24,6 +24,9 @@ matplotlib==3.6.2
 numpy==1.23.4
 openpyxl==3.0.10
 packaging==21.3
+
+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
+
 pandas==1.5.1
 peppercorn==0.6
 Pillow==9.3.0
