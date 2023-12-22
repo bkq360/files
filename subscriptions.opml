@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>The Old Reader</title>
+    <dateCreated>Fri, 22 Dec 2023 01:15:33 GMT</dateCreated>
+    <dateModified>Fri, 22 Dec 2023 01:15:33 GMT</dateModified>
+    <ownerName>wender</ownerName>
+    <ownerEmail>baokuanqing@outlook.com</ownerEmail>
+  </head>
+  <body>
+    <outline type="rss" xmlUrl="https://hnrss.org/frontpage"/>
+    <outline type="rss" xmlUrl="http://www.ithome.com/rss"/>
+    <outline type="rss" xmlUrl="http://rsshub.app/wsj/zh-cn/opinion"/>
+    <outline type="rss" xmlUrl="https://www.woshipm.com/feed"/>
+    <outline type="rss" xmlUrl="http://rsshub.app/weibo/search/hot"/>
+    <outline type="rss" xmlUrl="https://juejin.cn/rss"/>
+    <outline type="rss" xmlUrl="https://www.williamlong.info/rss.xml"/>
+    <outline type="rss" xmlUrl="https://www.douban.com/feed/review/book"/>
+    <outline type="rss" xmlUrl="http://plink.anyfeeder.com/weixin/qnwzwx"/>
+    <outline type="rss" xmlUrl="https://draveness.me/feed.xml"/>
+    <outline title="Bigshans' Blog" text="Bigshans' Blog">
+      <outline type="rss" xmlUrl="https://bigshans.github.io/index.xml"/>
+    </outline>
+    <outline title="fasterthanlime" text="fasterthanlime">
+      <outline type="rss" xmlUrl="https://fasterthanli.me/index.xml"/>
+    </outline>
+    <outline title="FreeBuf网络安全行业门户" text="FreeBuf网络安全行业门户">
+      <outline type="rss" xmlUrl="https://www.freebuf.com/feed"/>
+    </outline>
+    <outline title="go issues" text="go issues">
+      <outline type="rss" xmlUrl="https://goissues.blogspot.com/feeds/posts/default"/>
+    </outline>
+    <outline title="Hacker News Newest" text="Hacker News Newest">
+      <outline type="rss" xmlUrl="https://hnrss.org/newest?points=200"/>
+      <outline type="rss" xmlUrl="https://hnrss.org/newest"/>
+    </outline>
+    <outline title="Mark24" text="Mark24">
+      <outline type="rss" xmlUrl="https://geeknote.net/mark24/feed.atom"/>
+    </outline>
+    <outline title="Rei" text="Rei">
+      <outline type="rss" xmlUrl="https://geeknote.net/Rei/feed.atom"/>
+    </outline>
+    <outline title="Ruby China" text="Ruby China">
+      <outline type="rss" xmlUrl="https://ruby-china.org/topics/feed"/>
+    </outline>
+    <outline title="The Old Reader Picks" text="The Old Reader Picks">
+      <outline type="rss" xmlUrl="https://www.apartmenttherapy.com/main.rss"/>
+      <outline type="rss" xmlUrl="http://www.getrichslowly.org/blog/feed/"/>
+      <outline type="rss" xmlUrl="https://thedailywhat.cheezburger.com/rss"/>
+      <outline type="rss" xmlUrl="http://blog.theoldreader.com/rss"/>
+      <outline type="rss" xmlUrl="https://what-if.xkcd.com/feed.atom"/>
+    </outline>
+    <outline title="Tinyfool的个人网站" text="Tinyfool的个人网站">
+      <outline type="rss" xmlUrl="https://codechina.org/feed/"/>
+    </outline>
+    <outline title="V2EX" text="V2EX">
+      <outline type="rss" xmlUrl="https://v2ex.com/index.xml"/>
+    </outline>
+    <outline title="vue issues" text="vue issues">
+      <outline type="rss" xmlUrl="https://vueissues.blogspot.com/feeds/posts/default"/>
+    </outline>
+    <outline title="阮一峰的网络日志" text="阮一峰的网络日志">
+      <outline type="rss" xmlUrl="http://ruanyifeng.com/blog/atom.xml"/>
+      <outline type="rss" xmlUrl="http://feeds.feedburner.com/ruanyifeng"/>
+    </outline>
+  </body>
+</opml>
+
